@@ -3878,16 +3878,16 @@ Low profile connectors, straight&lt;p&gt;
 <wire x1="-4.445" y1="-4.318" x2="-5.715" y2="-4.318" width="0.127" layer="21"/>
 <wire x1="-5.715" y1="-4.445" x2="-5.715" y2="-4.318" width="0.127" layer="21"/>
 <wire x1="-5.715" y1="-4.445" x2="-10.16" y2="-4.445" width="0.127" layer="21"/>
-<pad name="1" x="-5.08" y="-1.27" drill="0.9144" shape="octagon"/>
-<pad name="2" x="-5.08" y="1.27" drill="0.9144" shape="octagon"/>
-<pad name="3" x="-2.54" y="-1.27" drill="0.9144" shape="octagon"/>
-<pad name="4" x="-2.54" y="1.27" drill="0.9144" shape="octagon"/>
-<pad name="5" x="0" y="-1.27" drill="0.9144" shape="octagon"/>
-<pad name="6" x="0" y="1.27" drill="0.9144" shape="octagon"/>
-<pad name="7" x="2.54" y="-1.27" drill="0.9144" shape="octagon"/>
-<pad name="8" x="2.54" y="1.27" drill="0.9144" shape="octagon"/>
-<pad name="9" x="5.08" y="-1.27" drill="0.9144" shape="octagon"/>
-<pad name="10" x="5.08" y="1.27" drill="0.9144" shape="octagon"/>
+<pad name="1" x="-5.08" y="-1.27" drill="1.3" shape="octagon"/>
+<pad name="2" x="-5.08" y="1.27" drill="1.3" shape="octagon"/>
+<pad name="3" x="-2.54" y="-1.27" drill="1.3" shape="octagon"/>
+<pad name="4" x="-2.54" y="1.27" drill="1.3" shape="octagon"/>
+<pad name="5" x="0" y="-1.27" drill="1.3" shape="octagon"/>
+<pad name="6" x="0" y="1.27" drill="1.3" shape="octagon"/>
+<pad name="7" x="2.54" y="-1.27" drill="1.3" shape="octagon"/>
+<pad name="8" x="2.54" y="1.27" drill="1.3" shape="octagon"/>
+<pad name="9" x="5.08" y="-1.27" drill="1.3" shape="octagon"/>
+<pad name="10" x="5.08" y="1.27" drill="1.3" shape="octagon"/>
 <text x="-1.016" y="-4.064" size="1.27" layer="21" ratio="10">10</text>
 <text x="-10.16" y="5.08" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="0" y="5.08" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
